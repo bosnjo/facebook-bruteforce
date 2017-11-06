@@ -1,2 +1,3 @@
 # facebook-bruteforce
-Easy facebook bruteforce script. It is easy to use.
+Easy facebook perl bruteforce script. It is easy to use.
+Usage: perl facebook.pl email wordlist
